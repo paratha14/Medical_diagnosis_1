@@ -76,9 +76,9 @@ pip install -r requirements.txt
 
 ### Project Maintainer
 **Partha**  
--GitHub: [@paratha14](https://github.com/paratha14)  
--Email: prathammohan3@gmail.com 
--LinkedIn: https://www.linkedin.com/in/pratham-mohan-47013b2b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- GitHub: [@paratha14](https://github.com/paratha14)  
+- Email: prathammohan3@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/pratham-mohan-47013b2b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ### Support
 For questions or support requests:  
