@@ -53,9 +53,9 @@ pip install -r requirements.txt
 | Model               | Accuracy | Precision | Recall | F1 Score | AUC-ROC |
 |---------------------|----------|-----------|--------|----------|---------|
 | Logistic Regression | 0.89     | 0.88      | 0.87   | 0.87     | 0.93    |
-| Random Forest       | 0.92     | 0.91      | 0.90   | 0.91     | 0.96    |
-| Support Vector Machine | 0.85  | 0.83      | 0.82   | 0.82     | 0.89    |
-| XGBoost             | 0.93     | 0.92      | 0.91   | 0.92     | 0.97    |
+| Random Forest       | 0.90     | 0.91      | 0.90   | 0.91     | 0.96    |
+| Support Vector Machine | 0.93  | 0.83      | 0.82   | 0.82     | 0.89    |
+
 
 ### Key Findings
 - **Best Performing Model**: Random Forest (92% accuracy)  
@@ -75,7 +75,7 @@ pip install -r requirements.txt
 ## Contact & Maintainer
 
 ### Project Maintainer
-**Partha**  
+**Pratham**  
 - GitHub: [@paratha14](https://github.com/paratha14)  
 - Email: prathammohan3@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/pratham-mohan-47013b2b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
